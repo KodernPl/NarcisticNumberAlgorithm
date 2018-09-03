@@ -1,4 +1,3 @@
-﻿# Krzysztof Kuziel www.krzykustudio.pl
 # Python 3.5
 # Narcistic Numbers Finder Algorithm
 
